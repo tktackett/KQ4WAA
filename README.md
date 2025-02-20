@@ -4,4 +4,4 @@ We are using the State level chennel and then breaking it down by County channel
 These are all on the msh/US Root topic.
 
 Florida Meshtastic Discord Group
-https://discord.gg/AqqPCE6F (02/20/2025)
+https://discord.gg/UwAkP85bJ3 (02/20/2025)
